@@ -16,7 +16,7 @@ public class Movie {
 
         public Movie (JSONObject jsonObject) throws JSONException {
             posterPath = jsonObject.getString("poster_path");
-            posterPath = jsonObject.getString("title");
+            title = jsonObject.getString("title");
             overview   = jsonObject.getString("overview");
         }
 
