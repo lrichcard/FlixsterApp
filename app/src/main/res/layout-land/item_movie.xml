@@ -23,6 +23,8 @@
         android:layout_alignParentTop="true"
         android:layout_marginStart="5dp"
         android:layout_toEndOf="@+id/ivPoster"
+        android:fontFamily="casual"
+        android:textColor="#A5B40D"
         android:textSize="24sp"
         tools:text="dari Dilan" />
 
@@ -35,5 +37,6 @@
         android:layout_marginStart="5dp"
         android:layout_marginTop="5dp"
         android:layout_toEndOf="@+id/ivPoster"
+        android:textStyle="italic"
         tools:text="Before the grand reunion, Dilan decided to write and retell his love story with Milea. This is Dilan's way of remembering Milea." />
 </RelativeLayout>
