@@ -16,16 +16,22 @@
         android:layout_marginTop="0dp"
         tools:text="@tools:sample/avatars" />
 
+
     <TextView
         android:id="@+id/tvTitle"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
-        android:layout_marginStart="5dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="51dp"
+        android:layout_marginTop="6dp"
         android:layout_toEndOf="@+id/ivPoster"
+        android:fontFamily="casual"
+        android:textAllCaps="true"
+        android:textColor="@color/colorAccent"
         android:textSize="24sp"
+        android:textStyle="italic"
         tools:text="dari Dilan" />
-
 
     <TextView
         android:id="@+id/tvOverview"
@@ -35,5 +41,7 @@
         android:layout_marginStart="5dp"
         android:layout_marginTop="5dp"
         android:layout_toEndOf="@+id/ivPoster"
+        android:fontFamily="sans-serif"
+        android:textAlignment="center"
         tools:text="Before the grand reunion, Dilan decided to write and retell his love story with Milea. This is Dilan's way of remembering Milea." />
 </RelativeLayout>
