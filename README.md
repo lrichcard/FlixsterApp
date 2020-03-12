@@ -28,7 +28,7 @@ Landscape
 
 Portrait
 
-![Portrait Walkthrough](https://i.imgur.com/LAskQRh.gif)
+![Portrait Walkthrough][img]https://i.imgur.com/LAskQRh.gif[/img]
 
 
 
