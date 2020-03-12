@@ -24,14 +24,14 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ### App Walkthough GIF
 
 
+![Landscape Walkthrough](https://imgur.com/LAskQRh)
+ [img]https://i.imgur.com/5xeOT9m.gif[/img]
+
 Portrait
 
-![Portrait Walkthrough]([img]https://i.imgur.com/5xeOT9m.gif[/img])
+![Portrait Walkthrough](https://i.imgur.com/zfSLnZd.gif)
 
 
-Landscape
-
-![Landscape Walkthrough](https://i.imgur.com/hAR4Aj9.gif)
 
 
 ### Notes
